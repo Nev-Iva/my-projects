@@ -5,10 +5,12 @@ My projects.
 
 
 ## SQL
-1. Спроектирован интернет-магазин (радиодеталей).
-2. Задания GB (Базы данных).
+1. Спроектирован интернет-магазин радиодеталей - coursework DB SQL.
+2. Задания GB (Базы данных) - db hw GB.
 
 ## Python
-1. Задания GB (0 уровень).
-2. Задания GB (Основы языка Python).
-3. Задания GB библиотеки Numpy, Pandas, MatplotLib, Scikit-learn.
+1. Задания GB (0 уровень) - basic python (0 level).
+2. Задания GB (Основы языка Python) - basic python GB.
+3. Задания GB библиотеки Numpy, Pandas, MatplotLib, Scikit-learn - python libs .
+
+
