@@ -1,0 +1,4 @@
+SET lesson11@geekbrains.ru IVAN
+GET lesson11@geekbrains.ru 
+SET IVAN lesson11@geekbrains.ru
+GET IVAN

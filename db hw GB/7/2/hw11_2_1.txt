@@ -1,0 +1,4 @@
+SADD ipaddress '127.0.0.1' '198.255.255.255' '203.255.255.255' '198.0.0.0'
+SADD ipaddress '198.0.0.0' 
+SMEMBERS ipaddress 
+SCARD ipaddress 

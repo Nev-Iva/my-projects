@@ -1,0 +1,5 @@
+use shop
+db.shop.insert({Product :'Продукт 1', catalog :'Каталог продукта 1'})
+db.shop.insert({Product :'Продукт 2', catalog :'Каталог продукта 2'})
+db.shop.insert({Product :'Продукт 3', catalog :'Каталог продукта 3'})
+db.shop.find()
