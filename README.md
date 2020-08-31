@@ -12,5 +12,6 @@ My projects.
 1. Задания GB (0 уровень) - basic python (0 level).
 2. Задания GB (Основы языка Python) - basic python GB.
 3. Задания GB библиотеки Numpy, Pandas, MatplotLib, Scikit-learn - python libs .
+4. Задания по обработке и выборке данных - test-processing-data.
 
 
