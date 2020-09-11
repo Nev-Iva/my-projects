@@ -13,5 +13,7 @@ My projects.
 2. Задания GB (Основы языка Python) - basic python GB.
 3. Задания GB библиотеки Numpy, Pandas, MatplotLib, Scikit-learn - python libs .
 4. Задания по обработке и выборке данных - test-processing-data.
+5. Методы сбора и обработки данных из сети Интернет - data_mining 
+
 
 
